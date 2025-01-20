@@ -37,3 +37,4 @@ replay_pid*
 /.idea/codeStyles/codeStyleConfig.xml
 /.gradle/
 /build/
+/allure-results/
