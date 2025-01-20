@@ -1,6 +1,3 @@
-Вот переписанный `.gitignore` файл в одном стиле:
-
-```gitignore
 # Compiled class files
 *.class
 
